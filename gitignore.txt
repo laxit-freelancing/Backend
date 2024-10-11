@@ -1,0 +1,7 @@
+output.csv
+temp.py
+utils.py
+Assignment.zip
+*.jpg
+*.jpeg
+vars.py
